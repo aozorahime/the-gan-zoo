@@ -248,6 +248,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * HAN - [Chinese Typeface Transformation with Hierarchical Adversarial Network](https://arxiv.org/abs/1711.06448) 
 * HAN - [Bidirectional Learning for Robust Neural Networks](https://arxiv.org/abs/1805.08006) 
 * HiGAN - [Exploiting Images for Video Recognition with Hierarchical Generative Adversarial Networks](https://arxiv.org/abs/1805.04384) 
+* HLGAN - [Improving generative adversarial networks for speech enhancement through regularization of latent representations](https://www.sciencedirect.com/science/article/pii/S0167639318304345?casa_token=WqKn6l9v-WEAAAAA:boiiMk-x_s5RflURmOwb2PraL24uVeYAS3NTIpYS-3_SxDTmIl3CGr7alrtrhln-KbkALFT7odq9)
 * HP-GAN - [HP-GAN: Probabilistic 3D human motion prediction via GAN](https://arxiv.org/abs/1711.09561) 
 * HR-DCGAN - [High-Resolution Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1711.06491) 
 * hredGAN - [Multi-turn Dialogue Response Generation in an Adversarial Learning framework](https://arxiv.org/abs/1805.11752) 
